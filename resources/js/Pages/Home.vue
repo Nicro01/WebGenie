@@ -32,15 +32,15 @@
             class="grid grid-cols-12 border-black dark:border-white dark:bg-black dark:text-white border-solid border-[1px]"
         >
             <div
-                class="col-span-12 md:col-span-6 box-decoration-slice flex items-center border-bottom md:border-b-[transparent !important] change-bg justify-center py-4 md:pt-0 md:pb-2 md-border-right"
+                class="col-span-12 md:col-span-8 box-decoration-slice flex items-center border-bottom md:border-b-[transparent !important] change-bg justify-center py-4 md:pt-0 md:pb-2 md-border-right"
             >
                 <h2 class="text-3xl md:text-8xl tracking-[0.6em] break-words">
-                    Skyse
+                    WebGeni
                 </h2>
-                <h2 class="text-3xl md:text-8xl md:-ml-2">t</h2>
+                <h2 class="text-3xl md:text-8xl md:-ml-2">E</h2>
             </div>
             <div
-                class="col-span-12 border-bottom md:border-b-transparent md:col-span-3 md-border-right"
+                class="col-span-12 border-bottom md:border-b-transparent md:col-span-2 md-border-right"
             >
                 <div
                     class="flex box-decoration-slice flex-col justify-between h-full"
@@ -48,27 +48,27 @@
                     <button
                         class="py-2 change-bg text-center md:text-start pl-2 md-border-bottom border-bottom"
                     >
-                        GALERIA
+                        Serviços
                     </button>
                     <button
                         class="py-2 change-bg text-center md:text-start pl-2 md-border-bottom border-bottom"
                     >
-                        NOSSOS PRESETS
+                        Tecnologias
                     </button>
                     <button
                         class="py-2 change-bg text-center md:text-start pl-2"
                     >
-                        FALE CONOSCO
+                        Contato
                     </button>
                 </div>
             </div>
-            <div class="col-span-12 md:col-span-3 box-decoration-slice">
+            <div class="col-span-12 md:col-span-2 box-decoration-slice">
                 <button
                     class="py-10 flex justify-center items-center md:py-2 change-bg h-full md:mx-auto w-full"
                 >
                     <p class="text-2xl">
-                        COMPRE <br />
-                        AGORA
+                        Tenha seu <br />
+                        próprio site
                     </p>
                 </button>
             </div>
@@ -87,10 +87,10 @@
                 <h2
                     class="text-xl font-semibold md:text-2xl tracking-[0.28em] break-words"
                 >
-                    Transforme Suas Fotos
+                    Potencialize Seu Negócio
                 </h2>
                 <h2 class="text-base md:text-xl tracking-[0.23em]">
-                    com Presets Exclusivos
+                    com Sites e Sistemas Sob Medida
                 </h2>
             </div>
             <div
@@ -102,8 +102,8 @@
                     <span
                         class="link vertical-text link-underline link-underline-black text-white dark:text-black text-xs my-10 md:my-0 md:text-xl"
                     >
-                        DEMONSTRAÇÃO</span
-                    >
+                        VEJA COMO
+                    </span>
                 </button>
             </div>
         </div>
@@ -120,12 +120,13 @@
             >
                 <div class="flex flex-col md:flex-row mx-5">
                     <div class="md:max-w-[50%] px-5">
-                        <h2 class="md:text-4xl mb-8">Personalize</h2>
+                        <h2 class="md:text-2xl font-bold mb-8">Serviços</h2>
                         <p
                             class="break-all text-base normal-case mb-10 md:mb-0"
                         >
-                            Presets que se adaptam a diversos estilos
-                            fotográficos, elevando a qualidade de suas imagens.
+                            Desenvolvimento de sites e sistemas personalizados
+                            com Laravel, Vue.js e WordPress, focando em soluções
+                            responsivas e inovadoras.
                         </p>
                     </div>
                     <div class="mx-auto flex items-center relative">
@@ -135,24 +136,26 @@
                         <button
                             class="border-solid z-10 relative border-white dark:border-black border-[1px] change-bg px-20 py-5 hover:shadow-outline"
                         >
-                            SAIBA MAIS
+                            Saiba Mais
                         </button>
                     </div>
                 </div>
+
                 <hr
                     class="border-solid border-black dark:border-white border-[1px] w-full"
                 />
                 <div class="flex flex-col md:flex-row mx-5">
                     <div class="md:max-w-[50%] px-5">
-                        <h2 class="md:text-4xl mb-8">Ilumine Suas Fotos</h2>
+                        <h2 class="md:text-2xl font-bold mb-8">
+                            Desenvolvimento Web
+                        </h2>
                         <p
                             class="break-all text-base normal-case mb-10 md:mb-0"
                         >
-                            Transforme suas imagens com presets que realçam
-                            cores e detalhes, criando fotos vibrantes e
-                            profundas. Ideal para qualquer tipo de cena,
-                            elevando momentos a arte luminosa com um simples
-                            toque.
+                            Elevamos sua presença online com sites responsivos e
+                            sistemas personalizados. Utilizando Laravel, Vue.js
+                            e WordPress, transformamos suas ideias em realidade
+                            digital.
                         </p>
                     </div>
                     <div class="mx-auto flex items-center relative">
@@ -162,7 +165,7 @@
                         <button
                             class="border-solid z-10 relative border-black border-[1px] change-bg px-20 py-5 hover:shadow-outline"
                         >
-                            SAIBA MAIS
+                            Saiba Mais
                         </button>
                     </div>
                 </div>
@@ -170,21 +173,22 @@
             <div
                 class="col-span-12 md:col-span-6 row-span-2 py-6 border-bottom md-border-bottom border-top flex change-bg items-center justify-center md:justify-start"
             >
-                <h2 class="md:ml-5 md:text-5xl">Explore Recursos</h2>
+                <h2 class="md:ml-5 md:text-4xl">Explore Nossos Serviços</h2>
             </div>
             <div class="col-span-12 md:col-span-6 relative row-span-6 flex">
                 <div class="flex flex-col md:flex-row">
-                    <!-- HTML 5 BOX -->
-
+                    <!-- Laravel BOX -->
                     <div
                         class="flex flex-col w-full md:max-w-[50%] justify-center md:mx-5 border-bottom md-border-right"
                     >
                         <div class="py-5 md:py-0 px-5">
-                            <h2 class="text-2xl md:text-4xl mb-8">Adaptação</h2>
+                            <h2 class="text-2xl md:text-3xl mb-8">
+                                Desenvolvimento Personalizado
+                            </h2>
                             <p class="break-all text-base normal-case">
-                                Nossos presets são compatíveis com os principais
-                                softwares de edição, garantindo flexibilidade e
-                                qualidade.
+                                Utilizamos Laravel para criar sistemas robustos
+                                e personalizados, atendendo às necessidades
+                                específicas do seu negócio.
                             </p>
                         </div>
                         <div class="relative mx-auto md:mx-0 mb-10 md:mb-0">
@@ -195,20 +199,18 @@
                             </button>
                         </div>
                     </div>
-
-                    <!-- -------- -->
-
-                    <!-- CSS 3 BOX -->
-
+                    <!-- Vue.js BOX -->
                     <div
                         class="flex flex-col w-full md:max-w-[50%] justify-center md:mx-5"
                     >
                         <div class="py-5 md:py-0 px-5">
-                            <h2 class="text-2xl md:text-4xl mb-8">Estilo</h2>
+                            <h2 class="text-2xl md:text-3xl mb-8">
+                                Interfaces Dinâmicas
+                            </h2>
                             <p class="break-all text-base normal-case">
-                                Desde o natural ao vibrante, oferecemos uma gama
-                                variada de estilos para que suas fotos se
-                                destaquem.
+                                Com Vue.js, desenvolvemos interfaces interativas
+                                e responsivas, proporcionando uma experiência de
+                                usuário sem igual.
                             </p>
                         </div>
                         <div class="relative mx-auto md:mx-0 mb-10 md:mb-0">
@@ -219,8 +221,6 @@
                             </button>
                         </div>
                     </div>
-
-                    <!-- --------- -->
                 </div>
             </div>
         </div>
@@ -393,24 +393,28 @@
                     <button
                         class="change-bg text-center md:text-start md:pl-2 py-3 md:py-0 md-border-bottom border-right w-1/3 md:w-auto md:h-1/3"
                     >
-                        COMPRAR PRESSETS
+                        NOSSOS PROJETOS
                     </button>
                     <button
                         class="change-bg text-center md:text-start md:pl-2 md-border-bottom border-right w-1/3 md:w-auto md:h-1/3"
                     >
-                        INSTAGRAM
+                        CONTATO
                     </button>
                     <button
                         class="change-bg text-center dark:border-white md:text-start md:pl-2 w-1/3 md:w-auto md:h-1/3"
                     >
-                        WHATSAPP
+                        SOBRE NÓS
                     </button>
                 </div>
             </div>
+
             <div
                 class="col-span-6 md:col-span-1 border-bottom md-border-right flex flex-col items-center justify-center change-bg"
             >
-                <h2 class="md:text-start text-center md:text-3xl">CONTACT</h2>
+                <h2 class="md:mx-2 text-center md:text-2xl">
+                    Formulario de <br />
+                    Contato
+                </h2>
             </div>
             <div class="col-span-6 md:col-span-4 h-full pt-4 px-4">
                 <form action="">
@@ -439,7 +443,7 @@
                         <button
                             class="change-bg px-5 py-2 border-solid border-black dark:border-white border-[1px] self-end mt-5 mb-4"
                         >
-                            SEND
+                            ENVIAR
                         </button>
                     </div>
                 </form>
@@ -449,11 +453,13 @@
         <!-- ---------  -->
 
         <!-- SIXTH ROW -->
-    </div>
-    <div
-        class="w-full flex items-center justify-center py-5 bg-black text-white change-bg select-none"
-    >
-        <p class="text-center">Direitos Autorais © 2024 SkySet por Nicro01</p>
+        <div
+            class="w-full flex items-center justify-center py-5 bg-black text-white change-bg select-none"
+        >
+            <p class="text-center">
+                Direitos Autorais © 2024 SkySet por Nicro01
+            </p>
+        </div>
     </div>
 </template>
 
