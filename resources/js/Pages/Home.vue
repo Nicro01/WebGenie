@@ -66,10 +66,12 @@
                 <button
                     class="py-10 flex justify-center items-center md:py-2 change-bg h-full md:mx-auto w-full"
                 >
-                    <p class="text-2xl">
-                        Tenha seu <br />
-                        próprio site
-                    </p>
+                    <img
+                        src="https://i.postimg.cc/LskqD67R/Web-Genie-Logo.png"
+                        alt="WebGenie Logo"
+                        width="100"
+                        height="100"
+                    />
                 </button>
             </div>
         </div>
@@ -119,8 +121,8 @@
                 class="col-span-12 md:col-span-6 row-span-8 flex flex-col gap-16 items-center justify-center py-10 md-border-right"
             >
                 <div class="flex flex-col md:flex-row mx-5">
-                    <div class="md:max-w-[50%] px-5">
-                        <h2 class="md:text-2xl font-bold mb-8">Serviços</h2>
+                    <div class="md:max-w-[50%] px-5 text-center">
+                        <h2 class="text-2xl font-bold mb-8">Serviços</h2>
                         <p
                             class="break-all text-base normal-case mb-10 md:mb-0"
                         >
@@ -145,8 +147,8 @@
                     class="border-solid border-black dark:border-white border-[1px] w-full"
                 />
                 <div class="flex flex-col md:flex-row mx-5">
-                    <div class="md:max-w-[50%] px-5">
-                        <h2 class="md:text-2xl font-bold mb-8">
+                    <div class="md:max-w-[50%] px-5 text-center">
+                        <h2 class="text-2xl font-bold mb-8">
                             Desenvolvimento Web
                         </h2>
                         <p
@@ -227,160 +229,6 @@
 
         <!-- ---------  -->
 
-        <!-- FOURTH ROW -->
-
-        <div
-            class="grid grid-cols-6 border-black border-t-transparent border-b-transparent dark:border-white border-solid border-[1px]"
-        >
-            <div class="col-span-1">
-                <ImgComparisonSlider class="h-1/2 flex">
-                    <!-- eslint-disable -->
-                    <img
-                        slot="first"
-                        class="h-full"
-                        src="../../img/Photo2_B.jpg"
-                    />
-                    <img
-                        slot="second"
-                        class="h-full"
-                        src="../../img/Photo2_A.jpg"
-                    />
-                    <!-- eslint-enable -->
-                </ImgComparisonSlider>
-                <ImgComparisonSlider class="h-1/2 flex">
-                    <!-- eslint-disable -->
-                    <img
-                        slot="first"
-                        class="h-full"
-                        src="../../img/Photo3_B.jpg"
-                    />
-                    <img
-                        slot="second"
-                        class="h-full"
-                        src="../../img/Photo3_A.jpg"
-                    />
-                    <!-- eslint-enable -->
-                </ImgComparisonSlider>
-            </div>
-            <div class="col-span-1">
-                <ImgComparisonSlider class="h-1/2 flex">
-                    <!-- eslint-disable -->
-                    <img
-                        slot="first"
-                        class="h-full"
-                        src="../../img/Photo4_B.jpg"
-                    />
-                    <img
-                        slot="second"
-                        class="h-full"
-                        src="../../img/Photo4_A.jpg"
-                    />
-                    <!-- eslint-enable -->
-                </ImgComparisonSlider>
-                <ImgComparisonSlider class="h-1/2 flex">
-                    <!-- eslint-disable -->
-                    <img
-                        slot="first"
-                        class="h-full"
-                        src="../../img/Photo5_B.jpg"
-                    />
-                    <img
-                        slot="second"
-                        class="h-full"
-                        src="../../img/Photo5_A.jpg"
-                    />
-                    <!-- eslint-enable -->
-                </ImgComparisonSlider>
-            </div>
-            <div class="col-span-2 h-full">
-                <!-- <div
-                    class="absolute text-white dark:bg-black bg-gray-600 bottom-0 max-w-[60%] m-4 p-2 opacity-60"
-                >
-                    <h2 class="text-2xl mb-5">Title</h2>
-                    <p class="text-sm normal-case">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit.
-                    </p>
-                </div> -->
-                <ImgComparisonSlider class="h-full flex">
-                    <!-- eslint-disable -->
-                    <img
-                        slot="first"
-                        class="h-full"
-                        src="../../img/Photo1_B.jpg"
-                    />
-                    <img
-                        slot="second"
-                        class="h-full"
-                        src="../../img/Photo1_A.jpg"
-                    />
-                    <!-- eslint-enable -->
-                </ImgComparisonSlider>
-            </div>
-            <div class="col-span-1">
-                <ImgComparisonSlider class="h-1/2 flex">
-                    <!-- eslint-disable -->
-                    <img
-                        slot="first"
-                        class="h-full"
-                        src="../../img/Photo5_B.jpg"
-                    />
-                    <img
-                        slot="second"
-                        class="h-full"
-                        src="../../img/Photo5_A.jpg"
-                    />
-                    <!-- eslint-enable -->
-                </ImgComparisonSlider>
-                <ImgComparisonSlider class="h-1/2 flex">
-                    <!-- eslint-disable -->
-                    <img
-                        slot="first"
-                        class="h-full"
-                        src="../../img/Photo5_B.jpg"
-                    />
-                    <img
-                        slot="second"
-                        class="h-full"
-                        src="../../img/Photo5_A.jpg"
-                    />
-                    <!-- eslint-enable -->
-                </ImgComparisonSlider>
-            </div>
-            <div class="col-span-1">
-                <ImgComparisonSlider class="h-1/2 flex">
-                    <!-- eslint-disable -->
-                    <img
-                        slot="first"
-                        class="h-full"
-                        src="../../img/Photo5_B.jpg"
-                    />
-                    <img
-                        slot="second"
-                        class="h-full"
-                        src="../../img/Photo5_A.jpg"
-                    />
-                    <!-- eslint-enable -->
-                </ImgComparisonSlider>
-                <ImgComparisonSlider class="h-1/2 flex">
-                    <!-- eslint-disable -->
-                    <img
-                        slot="first"
-                        class="h-full"
-                        src="../../img/Photo5_B.jpg"
-                    />
-                    <img
-                        slot="second"
-                        class="h-full"
-                        src="../../img/Photo5_A.jpg"
-                    />
-                    <!-- eslint-enable -->
-                </ImgComparisonSlider>
-            </div>
-        </div>
-
-        <!-- ---------  -->
-
         <!-- FIFTH ROW -->
 
         <div
@@ -456,9 +304,7 @@
         <div
             class="w-full flex items-center justify-center py-5 bg-black text-white change-bg select-none"
         >
-            <p class="text-center">
-                Direitos Autorais © 2024 SkySet por Nicro01
-            </p>
+            <p class="text-center">Direitos Autorais © 2024 WebGenie</p>
         </div>
     </div>
 </template>
